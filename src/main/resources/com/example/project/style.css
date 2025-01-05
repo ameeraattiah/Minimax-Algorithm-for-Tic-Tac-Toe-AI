@@ -1,0 +1,9 @@
+
+.button:disabled{
+}
+
+.button{
+    -fx-text-fill:black;
+    -fx-background-radius:45;
+}
+
